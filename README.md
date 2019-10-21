@@ -1,6 +1,6 @@
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
-# Tnis link brings you to the UFO webpage:# https://mrvisco.github.io/11-Javascript-and-DOM-Manipulation---Aliens-R-Real/
+This link brings you to the UFO webpage: https://mrvisco.github.io/11-Javascript-and-DOM-Manipulation---Aliens-R-Real/
 
 ## Background
 
